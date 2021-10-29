@@ -1,0 +1,1 @@
+document.getElementById("any").innerHTML = localStorage.getItem("thing");
